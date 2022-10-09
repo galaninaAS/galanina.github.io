@@ -17,4 +17,4 @@
 ## ✅ Лабораторная 2
 
 ## Экзаменационный билет №21
-Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) редставлен в разделе ["Билеты к экзамену"] (https://github.com/stankin/inet-2022/wiki/exams)
+Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) редставлен в разделе ["Билеты к экзамену"]([https://github.com/stankin/inet-2022/wiki/exam23](https://github.com/stankin/inet-2022/wiki/exams)
