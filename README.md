@@ -15,9 +15,9 @@
 
 Доп. материалы:
 
-[Как создать личный репозиторий](https://htmlacademy.ru/blog/git/github-as-hosting)
+📍 [Как создать личный репозиторий](https://htmlacademy.ru/blog/git/github-as-hosting)
 
-[Пример бланка отчета](https://github.com/okoff/okoff.github.io/tree/master/oop/lab1)
+📍 [Пример бланка отчета](https://github.com/okoff/okoff.github.io/tree/master/oop/lab1)
 
 ## ✅ Лабораторная 2
 
