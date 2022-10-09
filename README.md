@@ -12,9 +12,9 @@
 2. Создать личный репозиторий для сохранения результатов выполнения лабораторных работ.
 3. Создать файл readme.md в личном репозитории с бланком отчета о лабораторных работах.
 Доп. материалы:
-[Как создать личный репозиторий.] (https://htmlacademy.ru/blog/git/github-as-hosting)
-[Пример бланка отчета.] (https://github.com/okoff/okoff.github.io/blob/master/oop/lab1/README.md)
+[Как создать личный репозиторий] (https://htmlacademy.ru/blog/git/github-as-hosting)
+[Пример бланка отчета] (https://github.com/okoff/okoff.github.io/blob/master/oop/lab1/README.md)
 ## ✅ Лабораторная 2
 
 ## Экзаменационный билет №21
-Ответ на экзаменационный [билет №21] (https://github.com/stankin/inet-2022/wiki/exam21) представлен в разделе ["Билеты к экзамену".] (https://github.com/stankin/inet-2022/wiki/exams)
+Ответ на экзаменационный [билет №21] (https://github.com/stankin/inet-2022/wiki/exam21) представлен в разделе ["Билеты к экзамену"] (https://github.com/stankin/inet-2022/wiki/exams)
