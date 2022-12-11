@@ -34,6 +34,7 @@
 2 Модуль:
 В результате выполнения второй лабораторной работы сделан тест (викторина) с использованием языка разметки html, языка стилей css и языка программирования JavaScript. 
 Файлы проекта размещены в [репозитории](https://github.com/galaninaAS/labvictorin).
+
 Пройти тест можно по ссылке: [Тест](https://galaninaas.github.io/labvictorin/)
 
 ## ✅ Лабораторная 3
@@ -42,4 +43,4 @@
 
 
 ## Экзаменационный билет №21
-Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) редставлен в разделе ["билеты к экзамену"](https://github.com/stankin/inet-2022/wiki/exams).
+Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) представлен в разделе ["билеты к экзамену"](https://github.com/stankin/inet-2022/wiki/exams).
