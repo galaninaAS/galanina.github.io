@@ -36,6 +36,7 @@
 Файлы проекта размещены в [репозитории](https://github.com/galaninaAS/labvictorin).
 
 Пройти тест можно по ссылке: [Тест](https://galaninaas.github.io/labvictorin/)
+Участия в конкурсе не принимаю.
 
 ## ✅ Лабораторная 3
 
