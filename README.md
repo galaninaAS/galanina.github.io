@@ -41,7 +41,12 @@
 
 ## ✅ Лабораторная 3
 
+1 Модуль:
 В качестве третьей лабораторной работы планируется выполнить работу с использованием Сisco Packet Tracer по [курсу](https://intuit.ru/studies/courses/3549/791/info).
+
+2 Модуль:
+Результат работы в формате .pkt можно скачать по [ссылке](https://github.com/galaninaAS/labvictorin/Laborator3/Laborator3.pkt).
+Скриншоты, сопровождающие лабораторную работу, находятся в папаке [Laborator3](https://github.com/galaninaAS/labvictorin/Laborator3).
 
 
 ## Экзаменационный билет №21
