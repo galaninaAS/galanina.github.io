@@ -50,3 +50,5 @@
 
 ## Экзаменационный билет №21
 Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) представлен в разделе ["билеты к экзамену"](https://github.com/stankin/inet-2022/wiki/exams).
+
+ [Вклад](https://github.com/stankin/inet-2022/wiki/exam21/_history) в подготовку билета.
