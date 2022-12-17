@@ -33,7 +33,7 @@
 
 2 Модуль:
 В результате выполнения второй лабораторной работы сделан тест (викторина) с использованием языка разметки html, языка стилей css и языка программирования JavaScript. 
-Файлы проекта размещены в [репозитории](https://github.com/galaninaAS/labvictoryquiz).
+Файлы проекта размещены в [репозитории](https://github.com/galaninaAS/laboratoryquiz).
 
 [Тест](https://galaninaas.github.io/laboratoryquiz/) находится в общем доступе.
 
