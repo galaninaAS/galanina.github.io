@@ -45,10 +45,10 @@
 В качестве третьей лабораторной работы планируется выполнить работу с использованием Сisco Packet Tracer по [курсу](https://intuit.ru/studies/courses/3549/791/info).
 
 2 Модуль:
-Результат работы в формате .pkt и скриншоты, сопровождающие лабораторную работу, находятся в папаке [Laborator3](https://github.com/galaninaAS/laborator/tree/main/Laborator3).
+Результат работы по теме "Настройка локальной сети передачи данных" в формате .pkt и скриншоты, сопровождающие лабораторную работу, находятся в папаке [Laborator3](https://github.com/galaninaAS/laborator/tree/main/Laborator3).
 
 
 ## Экзаменационный билет №21
 Ответ на экзаменационный [билет №21](https://github.com/stankin/inet-2022/wiki/exam21) представлен в разделе ["билеты к экзамену"](https://github.com/stankin/inet-2022/wiki/exams).
 
- [Вклад](https://github.com/stankin/inet-2022/wiki/exam21/_history) в подготовку билета.
+ [Commit](https://github.com/stankin/inet-2022/wiki/exam21/_compare/c220f35508497d3f213b7ba4eb7001610d71424c...9c3157ed516a06f59da78447ec95f8d80c6f5f58)
